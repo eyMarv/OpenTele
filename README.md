@@ -35,7 +35,7 @@ A **Python Telegram API Library** for converting between **tdata** and **teletho
 ## Installation
 - Install from GitHub:
 ```pip title="pip"
-pip install --upgrade git+https://github.xcom/eyMarv/OpenTele.git
+pip install --upgrade git+https://github.com/eyMarv/OpenTele.git
 ```
 
 ## Example: First Run
