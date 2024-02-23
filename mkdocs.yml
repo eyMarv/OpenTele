@@ -1,6 +1,6 @@
-copyright: <a href="https://github.com/thedemons/opentele/" target="_blank" rel="noopener">thedemons.opentele</a>
+copyright: <a href="https://github.com/eyMarv/opentele/" target="_blank" rel="noopener">thedemons.opentele</a>
 docs_dir: docs
-edit_uri: https://github.com/thedemons/opentele/tree/main/docs/
+edit_uri: https://github.com/eyMarv/opentele/tree/main/docs/
 extra_css:
 - assets/pymdownx-extras/extra-c12baed3e0.css
 extra_javascript:
@@ -90,7 +90,7 @@ nav:
     - LoginFlag: documentation/authorization/loginflag.md
   - Exceptions:
     - Home: documentation/exceptions/README.md
-repo_url: https://github.com/thedemons/opentele
+repo_url: https://github.com/eyMarv/opentele
 site_author: thedemons
 site_description: A python library created to make life easier for Telegram API Developers.
 site_name: opentele
